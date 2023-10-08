@@ -1,3 +1,6 @@
+@import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+
+
 html {
   font-size: 14px;
 }
@@ -19,6 +22,14 @@ html {
 
 body {
   margin-bottom: 60px;
+}
+
+header {
+    font-family:'Times New Roman', Times, serif !important;
+}
+
+ul.nav {
+    font-family: 'Times New Roman', Times, serif !important;
 }
 
 div.logincontainer {
@@ -103,4 +114,55 @@ h1.login-user-level {
 
 #password {
     margin-bottom: 10px;
+}
+
+div.user-dropdown {
+    margin-right: 10px;
+}
+
+div.admin-container {
+    width: 100%;
+    height: 100%;
+}
+
+div.admin-sidebar {
+    background: white;
+    display: block;
+    height: 100%;
+    width: 18%;
+    overflow: auto;
+    font-size: x-large;
+    text-align: justify;
+    float: left;
+}
+
+li.admin-nav-item {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div.admin-content {
+    display: block;
+    height: 100%;
+    width: 82%;
+    float: left;
+}
+
+img.admin-home-image {
+    width: 100%;
+    height: 540px;
+}
+
+div.admin-dashboard-welcome {
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 1000px; 
+    height: 50px; 
+    background: white; 
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+h3.admin-dashboard-welcome {
+    padding: 5px;
 }

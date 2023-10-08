@@ -16,8 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/School/SIA101/Group1.3_GradingSystem_Prototype/Group1.3_GradingSystem_Prototype/Views/Admin/AdminDashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/SIA101/Group1.3_GradingSystem_Prototype/Group1.3_GradingSystem_Prototype/Views/Admin/AdminHomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Ib21lUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/School/SIA101/Group1.3_GradingSystem_Prototype/Group1.3_GradingSystem_Prototype/Views/Admin/AdminLoginPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Mb2dpblBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/School/SIA101/Group1.3_GradingSystem_Prototype/Group1.3_GradingSystem_Prototype/Views/Admin/AdminSubjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5TdWJqZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/School/SIA101/Group1.3_GradingSystem_Prototype/Group1.3_GradingSystem_Prototype/Views/Home/Index.cshtml]
@@ -48,6 +60,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/School/SIA101/Group1.3_GradingSystem_Prototype/Group1.3_GradingSystem_Prototype/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-55kpz99vpx
+[D:/School/SIA101/Group1.3_GradingSystem_Prototype/Group1.3_GradingSystem_Prototype/Views/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-1gooa4gfgg
+
+[D:/School/SIA101/Group1.3_GradingSystem_Prototype/Group1.3_GradingSystem_Prototype/Views/Shared/DefaultLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERlZmF1bHRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5fbsml5pbj

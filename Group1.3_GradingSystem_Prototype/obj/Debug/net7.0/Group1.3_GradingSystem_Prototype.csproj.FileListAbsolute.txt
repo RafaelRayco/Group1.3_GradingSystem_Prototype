@@ -20,7 +20,6 @@ D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototy
 D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\staticwebassets.pack.json
 D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\staticwebassets.build.json
 D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\staticwebassets.development.json
-D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\scopedcss\bundle\Group1.3_GradingSystem_Prototype.styles.css
 D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\scopedcss\projectbundle\Group1.3_GradingSystem_Prototype.bundle.scp.css
 D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\Group1.3_GradingSystem_Prototype.dll
@@ -28,3 +27,5 @@ D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototy
 D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\Group1.3_GradingSystem_Prototype.pdb
 D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\Group1.3_GradingSystem_Prototype.genruntimeconfig.cache
 D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\ref\Group1.3_GradingSystem_Prototype.dll
+D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\scopedcss\Views\Shared\DefaultLayout.cshtml.rz.scp.css
+D:\School\SIA101\Group1.3_GradingSystem_Prototype\Group1.3_GradingSystem_Prototype\obj\Debug\net7.0\scopedcss\Views\Shared\AdminLayout.cshtml.rz.scp.css

@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\School\\SIA101\\Group1.3_GradingSystem_Prototype\\Group1.3_GradingSystem_Prototype\\wwwroot\\imgs\\Admin-Placeholder.png",
+      "PackagePath": "staticwebassets\\imgs\\Admin-Placeholder.png"
+    },
+    {
       "Id": "D:\\School\\SIA101\\Group1.3_GradingSystem_Prototype\\Group1.3_GradingSystem_Prototype\\wwwroot\\imgs\\HIS-Logo.png",
       "PackagePath": "staticwebassets\\imgs\\HIS-Logo.png"
     },

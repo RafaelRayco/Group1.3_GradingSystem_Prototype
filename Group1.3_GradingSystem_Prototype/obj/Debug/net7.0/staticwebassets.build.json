@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RxlpEI3JY371gF5vyv8TnTDv9CiBJg0Gz02dyOT4fXI=",
+  "Hash": "hKeUW3VfMAnyo0SjCtFBcMSjaOKH9ROmAKq+oyFzlOk=",
   "Source": "Group1.3_GradingSystem_Prototype",
   "BasePath": "_content/Group1.3_GradingSystem_Prototype",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\School\\SIA101\\Group1.3_GradingSystem_Prototype\\Group1.3_GradingSystem_Prototype\\wwwroot\\imgs\\Admin-Placeholder.png",
+      "SourceId": "Group1.3_GradingSystem_Prototype",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\School\\SIA101\\Group1.3_GradingSystem_Prototype\\Group1.3_GradingSystem_Prototype\\wwwroot\\",
+      "BasePath": "_content/Group1.3_GradingSystem_Prototype",
+      "RelativePath": "imgs/Admin-Placeholder.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\Admin-Placeholder.png"
     },
     {
       "Identity": "D:\\School\\SIA101\\Group1.3_GradingSystem_Prototype\\Group1.3_GradingSystem_Prototype\\wwwroot\\imgs\\HIS-Logo.png",
