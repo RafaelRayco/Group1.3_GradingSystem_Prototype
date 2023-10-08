@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Group1.3_GradingSystem_Prototype/1.0.0": {
+        "runtime": {
+          "Group1.3_GradingSystem_Prototype.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Group1.3_GradingSystem_Prototype/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
